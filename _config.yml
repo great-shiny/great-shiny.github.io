@@ -1,8 +1,8 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "https://https://great-shiny.github.io/"
-url:            "https://https://great-shiny.github.io/"
+baseurl:        "/tale"
+url:            "https://great-shiny.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
