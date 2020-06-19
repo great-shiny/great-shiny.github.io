@@ -2,7 +2,7 @@
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://great-shiny.github.io"
 
 remote_theme: chesterhow/tale
 
